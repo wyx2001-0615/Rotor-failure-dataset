@@ -1,2 +1,2 @@
 # Rotor-failure-dataset
-The rotor system supported by rolling bearings includes fault data related to imbalance, misalignment, loosening, and dynamic-static contact friction.
+This dataset was created by the Fault Diagnosis Research Group at the School of Mechanical and Electrical Engineering, Xi'an University of Architecture and Technology. For citations or any other inquiries, please contact us via email at: wyx010615@126.com.
